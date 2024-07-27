@@ -9,7 +9,7 @@
 
 - 🐍 [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 - 📺 [P
-- ![LinkedIn](https://img.shields.io/badge/linkedin-00000?style=for-the-badge&logo=linkedin&logoColor=blue)
-- ![YouTube](https://img.shields.io/badge/youtube-00000?style=for-the-badge&logo=youtube&logoColor=red)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)
+- ![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red)
 
 
