@@ -9,6 +9,6 @@
 🐍 [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 
 
-![YouTube](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ) 
-![LinkedIn](https://www.linkedin.com/in/lauranikulski/) 
+[YouTube](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ) 
+[LinkedIn](https://www.linkedin.com/in/lauranikulski/) 
 
