@@ -7,7 +7,7 @@
 ### 🤝 As part of my learning journey, I am a club captain at Codecademy, where I host monthly meetups - video walkthroughs are hosted on the YouTube channel below and select code is shared via this GitHub profile.  
 
 #### Socials
-- ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue) [My LinkedIn Profile](https://www.linkedin.com/in/lauranikulski/) 
-- ![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
+![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue) [My LinkedIn Profile](https://www.linkedin.com/in/lauranikulski/) 
+![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 
 
