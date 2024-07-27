@@ -1,4 +1,4 @@
-### Hi, I'm Laura 📊
+### 👱‍♀️👋 Hi, I'm Laura 
 
 🏠 I am a webtoon marketer based in Seoul, Korea. 
 
@@ -10,5 +10,5 @@
 
 
 ![YouTube](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ) 
-![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=LinkedIn&logoColor=<blue>) https://www.linkedin.com/in/lauranikulski/
+![LinkedIn](https://www.linkedin.com/in/lauranikulski/) 
 
