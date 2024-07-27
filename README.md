@@ -8,6 +8,7 @@
 
 #### Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue) [My LinkedIn Profile](https://www.linkedin.com/in/lauranikulski/) 
+<br>
 ![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 
 
