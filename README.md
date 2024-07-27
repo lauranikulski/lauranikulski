@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Laura 📊
 
-<!--
-**lauranikulski/lauranikulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 I am a webtoon marketer based in Seoul, Korea. 
 
-Here are some ideas to get you started:
+🖥️ In my spare time, I enjoy coding in Python as a hobby and learning more about analytics in particular. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 As part of my learning journey, I am a club captain at Codecademy, where I host monthly meetups - video walkthroughs are hosted on the YouTube channel below and select code is shared via this GitHub profile.  
+
+🐍 [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
+
+
+![YouTube](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ) 
+![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=LinkedIn&logoColor=<blue>) https://www.linkedin.com/in/lauranikulski/
+
