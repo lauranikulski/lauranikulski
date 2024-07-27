@@ -11,5 +11,5 @@
 <br>
 ![Codecademy](https://img.shields.io/badge/codecademy-000000?style=for-the-badge&logo=codecademy&logoColor=gray) [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 <br>
-![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) [Codecademy Event Recordings]((https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ) )
+![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) [Codecademy Event Recordings](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ)
 
