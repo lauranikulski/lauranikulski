@@ -8,10 +8,13 @@
 
 #### Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue) 
+<br>
 [My LinkedIn Profile](https://www.linkedin.com/in/lauranikulski/) 
 <br>
 ![Codecademy](https://img.shields.io/badge/codecademy-000000?style=for-the-badge&logo=codecademy&logoColor=gray) 
+<br>
 [Codecademy Python Club](https://community.codecademy.com/c/python-club/)
 <br>
 ![YouTube](https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red) 
+<br>
 [Codecademy Event Recordings](https://www.youtube.com/channel/UCyAqZBaUeQkZTLIZOd2JHSQ)
